@@ -1,0 +1,9 @@
+Making/Changing Directories or their properties
+1. "cp file foo" this command will make a copy of "file" and name it "foo"
+2. "cp -r directory foo" recursively  copies "directory" and makes a new one called "foo"
+3. "mv foo ~/Desktop" moves foo to Desktop
+4. "mv file foo" renames "file" to "foo"
+5. "rm file" removes file from a directory
+6. "rmdir" removes an empty directory
+7. "rm -r" recursively deletes a directory and all of its contents
+8. "mkdir" makes a directory
