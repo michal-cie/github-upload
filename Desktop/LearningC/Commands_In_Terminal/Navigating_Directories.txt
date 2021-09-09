@@ -1,0 +1,15 @@
+Useful Commands to check info about directories
+1. "pwd" print working directory, returns working directory
+2. "ls" lists files in working directory
+3. "ls -a" lists all files in working directory including those starting with a dot
+4. "ls ~/Desktop" Lists all files in the Desktop directory
+5. "ls -la" lists all files with their create date etc
+
+These commands are used to navigate directories in Unix/Linux
+1. "cd /" Navigates to the root directory (cd stands for change directory)
+2. "cd" or "cd ~" Navigate to the root directory
+3. "cd .." Navigate up one directory ex. if you were in /Users/michalciebielski then you would be in /Users
+4. "cd -" navigate to the previous directory
+5. "cd /Users/michalciebielski" brings you to the directory by typing the whole path
+6. "cd ~/Desktop" the tilda stands for te home directory so that would really mean "cd /Users?michalciebielski/Desktop"
+7. "cd LearningC" brings you directly to the directory with that name if you are already in the directory where LearningC is located. If you are not there it will return an error 
